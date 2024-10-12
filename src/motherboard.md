@@ -24,6 +24,22 @@ Probably original image is from [https://theretroweb.com/motherboards/s/dtk-pam-
 - Jumpers are set to Cyrix 6x86MX-PR233 200MHz 3.0x 66MHz open close open open open open
   - in factory config it should be 83MHz x2.5 = 208MHz
 
+## Voltage
+- I/O - 3.3V
+- Core - 2.9V
+
+- jumpers:
+  - should be (and is on the image) set to 3.3V/2.9V:
+    - S1: closed
+    - S2: open
+    - S3: open
+    - S4: closed
+    - S6: closed
+
+## RAM
+
+- only bank 2 is populated with SIMM modules
+
 ## Runes
 
 On some motherboard chips there are runes.
