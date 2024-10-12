@@ -40,8 +40,3 @@ Probably original image is from [https://theretroweb.com/motherboards/s/dtk-pam-
 
 - only bank 2 is populated with SIMM modules
 
-## Runes
-
-On some motherboard chips there are runes.
-
-CPU - 
